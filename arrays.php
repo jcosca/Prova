@@ -10,7 +10,7 @@
     }
 
     foreach ($array3 as $key => $value) {
-        echo $key." - ".$value."<br>";
+        echo $key." - ".$value."\n\r";
     }
 
 ?>
